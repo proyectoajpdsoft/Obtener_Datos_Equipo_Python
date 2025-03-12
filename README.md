@@ -1,2 +1,1 @@
-# Obtener_Datos_Equipo_Python
- Script Python para obtener datos del equipo CPU RAM IP espacio en disco
+Script en Python para obtener los datos básicos de un equipo (Windows/Linux): arquitectura, versión del SO, sistema, nombre del equipo, procesador, fecha de arranque, número de procesos en ejecución, CPU cores, modelo CPU, discos duros y espacio, direcciones IP, memoria RAM, etc. Más información en: https://proyectoa.com/script-python-para-obtener-datos-del-equipo-cpu-ram-ip-espacio-en-disco/
